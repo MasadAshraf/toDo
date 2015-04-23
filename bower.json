@@ -1,0 +1,11 @@
+{
+  "name": "masad",
+  "version": "0.0.0",
+  "authors": [
+    "masad ashraf"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular-material": "~0.8.3"
+  }
+}
